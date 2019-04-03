@@ -1,0 +1,41 @@
+h1 {
+  font-family: Times, sans-serif; color:white;font-size: 36px; text-align: center;
+}
+
+body  {
+    background-image: url("/static/images/cover.jpg");background-size: cover; background-repeat: no-repeat; margin:0; background-attachment: fixed; background-color: black;
+    font-family: Ms serif, sans-serif; color:white; font-size: 20px; text-align: center;
+}
+
+div {
+            width: 500px;
+            height: 100px;
+            margin: 50px auto;
+            border: 1px solid transparent;
+            line-height: 100px;
+            text-align: center;
+            overflow: hidden;
+            font-size: 36px;
+        }
+a:link {
+            color:white;
+            text-decoration:none;
+            }
+            a:visited {
+            color:white;
+            text-decoration:none;
+            }
+
+img { height: auto; width: auto\9; width:100%; }
+
+nav ul {
+  list-style: none;
+  font-family: Arial, sans-serif; color:white;
+  font-size: 20px;
+  text-align: center;
+}
+
+nav ul li {
+  display: inline;
+  margin-right: 20px;
+}

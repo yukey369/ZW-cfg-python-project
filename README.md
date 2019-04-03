@@ -1,1 +1,1 @@
-ZW-cfg-python-project
+cfg-python-project-gx
